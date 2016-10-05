@@ -1,4 +1,27 @@
 # List of Academic References
+
+## Extra-Solar Planetary Systems: A Microcomputer Simulation
+
+- Cameron, A.G.W., 1962. The formation of the sun and planets. Icarus, 1, pp.13-69.
+- Dole, S.H., 1964. Habitable planets for man.
+- Larson, R.B., 1969. Numerical calculations of the dynamics of a collapsing proto-star. Monthly Notices of the Royal Astronomical Society, 145(3), pp.271-295.
+- Larson, R.B., 1972. The Evolution of Spherical Protostars with Masses $0\ cdot\, 25\,{M} _ {\ odot}\,\ text {TO}\, 10\,{M} _ {\ odot} $. Monthly Notices of the Royal Astronomical Society, 157(2), pp.121-145.
+- Cameron, A.G.W., 1973. Accumulation processes in the primitive solar nebula. Icarus, 18(3), pp.407-450.
+- Goldreich, P. and Ward, W.R., 1973. The formation of planetesimals. The Astrophysical Journal, 183, pp.1051-1062.
+- Van de Kamp, P., 1974, June. A Study of Barnard's Star. In Bulletin of the American Astronomical Society (Vol. 6, p. 306).
+- Gatewood, G., 1976. On the astrometric detection of neighboring planetary systems. Icarus, 27(1), pp.1-12.
+- Harrington, R.S., 1977. Planetary orbits in binary stars. The Astronomical Journal, 82, pp.753-756.
+- Bodenheimer, P. and Black, D.C., 1978. Numerical calculations of protostellar hydrodynamic collapse. In IAU Colloq. 52: Protostars and Planets (Vol. 1, pp. 288-322).
+- Cameron, A.G.W., 1978. Physics of the primitive solar nebula and of giant gaseous protoplanets. In IAU Colloq. 52: Protostars and Planets (Vol. 1, pp. 453-487).
+- Greenberg, R., Hartmann, W.K., Chapman, C.R. and Wacker, J.F., 1978. The accretion of planets from planetesimals. In IAU Colloq. 52: Protostars and Planets (Vol. 1, pp. 599-620).
+- Heppenheimer, T.A., 1978. On the formation of planets in binary star systems. Astronomy and Astrophysics, 65, pp.421-426.
+- Pollard, W.G., 1979. The Prevalence of Earthlike Planets: Although a rough estimate can be made of how many Earthlike planets might exist in the universe, the possibility that life has actually evolved on them cannot be calculated even in principle. American Scientist, 67(6), pp.653-659.
+- Cox, L.P. and Lewis, J.S., 1980. Numerical simulation of the final stages of terrestrial planet formation. Icarus, 44(3), pp.706-721.
+- Wetherill, G.W., 1981. The formation of the Earth from planetesimals. Scientific American, 244(6), pp.162-174.
+- Asimov, I., 1981. Extraterrestrial civilizations. New York: Crown Publishers, c1979., 1.
+- Greenberg, R., Weidenschilling, S.J., Chapman, C.R. and Davis, D.R., 1984. From icy planetesimals to outer planets and comets. Icarus, 59(1), pp.87-113.
+- Schorn, A. Ronald, 1985. VB8B: Brown Dwarf Or Planet. Sky & Telescope, p. 126.
+- Boss, A.P., 1985. Collapse and formation of stars. Sci. Am.;(United States), 252(1).
  
 ## Computer Simulation of the Formation of Planetary Systems
 - Poincaré, H., 1911. Leçons sur les hypothèses cosmogoniques. Paris: A. Hermann et fils, 1911.

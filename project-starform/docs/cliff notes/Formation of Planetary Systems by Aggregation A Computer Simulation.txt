@@ -1,5 +1,9 @@
 The main paper that the accretion part of the simulation is based upon.
 
+reference-wise the bibtex file for this paper will be "accrete"
+
+don't bother trying to copy any text from the pdf - it will come out with garbage.
+
 Basic Assumptions:
 - 1 star of 1 solar mass and 1 solar luminosity (basically equivalent to our own star)
 - Planets can form between the radii 0.3 astronomical units (AU) and 50.0 AU.
