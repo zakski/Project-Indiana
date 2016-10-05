@@ -1,17 +1,8 @@
+# Unneeded User-Specific Config, Version Control & Build Directories
+.idea/
+.gradle/
+gradle/
+build/
+
+# Do not add complied jvm code to git
 *.class
-*.log
-
-# sbt specific
-.cache
-.history
-.lib/
-dist/*
-target/
-lib_managed/
-src_managed/
-project/boot/
-project/plugins/project/
-
-# Scala-IDE specific
-.scala_dependencies
-.worksheet
