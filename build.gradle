@@ -2,7 +2,17 @@
 group 'com.szadowsz'
 version '0.0.1'
 
+
+// everything expected of all modules and the root project
 allprojects {
     // IntelliJ is the primary development medium, so it makes sense to add explicit support for all the sub-modules
     apply plugin: 'idea'
+}
+
+// Top-level project intellij configuration. Enforce Java 1.8 and Git version control on the project.
+idea {
+    project {
+        languageLevel = '1.8'
+        vcs = 'Git'
+    }
 }

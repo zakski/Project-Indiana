@@ -4,5 +4,9 @@
 gradle/
 build/
 
+# Do not add local gradle wrapper config to git
+gradlew
+gradlew.bat
+
 # Do not add complied jvm code to git
 *.class
