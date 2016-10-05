@@ -1,0 +1,8 @@
+// Equivalent to groupid and version in maven, artifactid equivalent is set in settings.gradle.
+group 'com.szadowsz'
+version '0.0.1'
+
+allprojects {
+    // IntelliJ is the primary development medium, so it makes sense to add explicit support for all the sub-modules
+    apply plugin: 'idea'
+}
