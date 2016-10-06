@@ -12,7 +12,7 @@ Additionally I will list the names of interested parties that never released the
 ###[ACRETE](https://scholar.google.com/scholar?cluster=2649232823724285381&hl=en&as_sdt=0,5)
 
 - Author: Stephen H. Dole
-- Language: Unknown
+- Language: Unknown, but most likely FORTRAN due to it being written for a IBM 7044.
 - Year: 1969
 
 Stephen H. Dole wrote the original program and research paper that detailed the solar system formation simulation code. He was a prolific astronomy 
