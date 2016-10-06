@@ -1,0 +1,2 @@
+With the exception of a few papers that have significant importance to the simulation I have not had the chance to read the majority of the articles that the
+ model papers reference, since I come from strictly a computer science background.
