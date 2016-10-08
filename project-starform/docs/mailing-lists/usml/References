@@ -1,0 +1,101 @@
+Numbers, Predictions, and War by Colonel Dupuy
+
+A World Model by The Club of Rome
+
+World Modeling: The Mersarovic-Pestel World Model in the context of its
+	Contempories by Barry Hughes
+
+Simulated International Process: Theories and Research in Global Modeling
+	by Harold Guetzkow & Joseph Valadez
+
+Forcasting in International Relations: Theories, Methods, Problems, Prospects
+	by Choucri & Robinson
+
+SOVMOD I: A macroeconomic Model of the Soviet Union by Green & Higgins
+
+Simulation in International Relations by Prentice-Hall, Inc
+
+Presidents, Secretaries of State, and Crises in US Foreign Relations: A model
+	and predictive Analysis by Lawrence Falkowski
+
+Simulated Worlds: A computer Model of National Decision Making by Stuart
+	Bremer
+
+Our Evolving Atmosphere
+	Is Anyone There? bu Isacc Asimov
+
+Second Planet, Second Earth
+	S. L. Gillett, Analog Dec 84
+
+The Postdiluvian World
+	S. L. Gillett, Analog Nov 85
+
+The Galaxy Before Man
+	T. M. Donaldson, Analog Sept 84
+
+Extraterrestrial Zoology
+	R. A. Freitas, Analog July 81
+
+Xenobiology
+	R. A. Freitas, Analog Mar 81
+
+Xenopsychology
+	R. A. Freitas, Analog Apr 81
+
+Structure of the Lower Atmosphere of Venus
+	C. Sagan, Icarus 1, 151-169 (1962)
+
+The Energy Budget and Atmospheric Circulation on a synchronously
+Rotating Planet
+	Mintz, Icarus, 172-173 (1962)
+
+Formation of the Sun and Planets
+	A. G. W. Cameron, Icarus 1, 13-69 (1962)
+
+The Circulation of the Upper Atmosphere
+	R. E. Newell, Scientific American March 1964
+
+Life in Darwin's Universe
+	G. Bylinsky, Omni Sept 79
+
+Alfred Wegener and the Hypothesis of Continental Drift
+	A. Hallam, Scientific American Feb 1975
+
+The Lost Seas of Venus
+	W. J. Kaufmann, Science Digest Sept 1982
+
+Huminoids on Other Planets
+	R. Bieri, American Scientist, August, 52, 1964
+
+A Referee's Guide to Planet-Building
+	Journal of the Traveller's Aid Society #11
+
+USML Orginial ftp archive
+% ftp hc.dspo.gov
+% ftp 192.12.184.4
+% ftp dspo.dspo.gov
+it is in the pub/usml directory.
+
+   It contains:
+
+-rw-rw-r--  1 root     wheel       41639 Sep  8 17:17 OtherSun.src
+-rw-rw-r--  1 root     wheel        5334 Sep  8 17:17 fractal.c
+-rw-rw-r--  1 root     wheel       60385 Sep  8 17:18 system.arc
+-rw-rw-r--  1 root     wheel       28499 Sep  8 17:18 traveller.src
+-rw-rw-r--  1 root     wheel       28241 Sep  8 17:21 universe1
+-rw-rw-r--  1 root     wheel       38380 Sep  8 17:21 universe2
+-rw-rw-r--  1 root     wheel       27108 Sep  8 17:19 universe3
+-rw-rw-r--  1 root     wheel       58656 Sep  8 17:19 universe4
+-rw-rw-r--  1 root     wheel       19669 Sep  8 17:19 universe5
+-rw-rw-r--  1 root     wheel       17853 Sep  8 17:20 universe6
+-rw-rw-r--  1 root     wheel       28485 Sep  8 17:20 universe7
+-rw-rw-r--  1 root     wheel       26256 Sep  8 17:20 universe8
+-rw-rw-r--  1 root     wheel       28505 Sep  8 17:21 universe9
+
+The first 4 are source code for random system generation routines and fractal
+landscapes.  The 9 universe files are past messages, rec.games.frp/programmer
+articles relevant,.....
+
+I also put in Universe10 and Universe11 as well as Actual and the
+Shebs thing (what shuld I call it?) but I havn't removed the
+mail headers yet or looked at them.
