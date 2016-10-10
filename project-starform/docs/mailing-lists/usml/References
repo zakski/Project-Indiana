@@ -99,3 +99,26 @@ articles relevant,.....
 I also put in Universe10 and Universe11 as well as Actual and the
 Shebs thing (what shuld I call it?) but I havn't removed the
 mail headers yet or looked at them.
+
+Name:           Universal Simulation Mailing List (usml) ftp site
+Address:        topgun.agps.lanl.gov (192.12.184.4)
+Info Updated:   25-Feb-1991
+Notes:          Once upon a time, some net.people made a joke about writing a
+                program or two that simulated the Universe. Ho ho ho. Pretty
+                funny. But other people took them seriously and thus was born
+                the short lived mailing list called usml, and thus were written
+                a number of programs which simulated various parts of the
+                universe. There are subsector generators for Traveller, star
+                system generators using several methods, and plate tectonic
+                generators to generate random land masses (not very pretty).
+
+                Here are the contents of pub/usml:
+
+                Actual                  accrete.c               shebs
+                Archive                 accretion.amiga         siod.c
+                Digests                 accretion.src           starcul.shar
+                List                    archive                 starform
+                OtherSun.src            cellsim_1.5.tar.Z       system.arc
+                Psychohistory           fractal.c               traveller.tar
+                README                  plates.c                xc5.1-tar.Z
+                Universe                references
